@@ -26,8 +26,14 @@
 3. Mở ứng dụng trên máy muốn làm server và chọn một client từ danh sách các thiết bị đã kết nối.
 4. Bắt đầu điều khiển máy client từ server.
 
-## 6. Đóng góp
+## 6. Thành viên nhóm
+1. Vương Nhật Tín
+2. Vương Nhật Hiển
+3. Võ Anh Tuấn
+4. Trần Quốc Duy
+   
+## 7. Đóng góp
 Nếu bạn muốn đóng góp cho dự án, vui lòng gửi pull request hoặc mở issue trên GitHub.
 
-## 7. Liên hệ
+## 8. Liên hệ
 Nếu có bất kỳ thắc mắc hoặc góp ý nào, bạn có thể liên hệ với tôi qua [22120082@student.hcmus.edu.vn]
